@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋, I'm Yokesh
+
+About Me 🚀
+🎓 I’m an Open-Source enthusiast & Aspiring Full Stack Web Developer.
+👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+
 
 <!--
 **yokesh-ks/yokesh-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
