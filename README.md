@@ -2,17 +2,14 @@
 
 
 🎓 I’m an Open-Source enthusiast & Aspiring Full Stack Web Developer.
+
 👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
 
+🌱 I’m currently learning MERN Stack
 
-<!--
-**yokesh-ks/yokesh-ks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: <a href="mailto:ksyokesh98@gmail.com@gmail.com">Email</a>
 
-- 🌱 I’m currently learning MERN Stack
-
-- 📫 How to reach me: <a href="mailto:ksyokesh98@gmail.com@gmail.com">Email</a>
-
- -Wanna know more about me -[\[MY PORTFOLIO\]](http://yokesh.in/)
+Wanna know more about me -[\[MY PORTFOLIO\]](http://yokesh.in/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
