@@ -12,10 +12,16 @@
 
 Wanna know more about me -[\[MY PORTFOLIO\]](http://yokesh.in/)
 
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-  <li>![Html](html-5.svg)</ul>
-  <li>![Html](html-5.svg)</ul>
-  <li>![Html](html-5.svg)</ul>
-</ul>
+## Languages and Tools:
 
+<div>
+<img src="./assets/languages/html-5.svg" height="60px">
+<img src="./assets/languages/css3.svg" height="60px">
+<img src="./assets/languages/bootstrap.svg" height="60px">
+<img src="./assets/languages/javascript.svg" height="60px">
+<img src="./assets/languages/php.svg" height="60px">
+<img src="./assets/languages/react.svg" height="60px">
+<img src="./assets/languages/nodejs.svg" height="60px">
+<img src="./assets/languages/mysql-logo.svg" height="60px">
+<img src="./assets/languages/java.svg" height="60px">
+</div>
