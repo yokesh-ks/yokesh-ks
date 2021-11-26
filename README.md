@@ -1,4 +1,4 @@
-![Head](assets/Banner for GitHub.png)
+![Head](assets/Banner.png)
 
 # Hi there 👋, I'm Yokesh
 
@@ -25,3 +25,5 @@ Wanna know more about me -[\[MY PORTFOLIO\]](http://yokesh.in/)
 <img src="./assets/languages/mysql-logo.svg" height="60px">
 <img src="./assets/languages/java.svg" height="60px">
 </div>
+
+##
