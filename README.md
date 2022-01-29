@@ -10,20 +10,25 @@
 
 📫 How to reach me: <a href="mailto:ksyokesh98@gmail.com">Email</a>
 
-Wanna know more about me -[\[MY PORTFOLIO\]](http://yokesh.in/)
+Wanna know more about me -[My Portfolio](http://yokesh.in/)
 
 ## Languages and Tools:
 
-<div>
-<img src="./assets/languages/html-5.svg" height="60px">
-<img src="./assets/languages/css3.svg" height="60px">
-<img src="./assets/languages/bootstrap.svg" height="60px">
-<img src="./assets/languages/javascript.svg" height="60px">
-<img src="./assets/languages/php.svg" height="60px">
-<img src="./assets/languages/react.svg" height="60px">
-<img src="./assets/languages/nodejs.svg" height="60px">
-<img src="./assets/languages/mysql-logo.svg" height="60px">
-<img src="./assets/languages/java.svg" height="60px">
-</div>
+<p align="left">  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+</p>
+
 
 ##
