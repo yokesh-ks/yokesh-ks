@@ -12,7 +12,7 @@
 
 Wanna know more about me -[My Portfolio](http://yokesh.in/)
 
-## Languages and Tools:
+## My Skills:
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -31,4 +31,11 @@ Wanna know more about me -[My Portfolio](http://yokesh.in/)
 </p>
 
 
-##
+## 
+
+<!-- # latest Blog posts -->
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yokesh-ks&" alt="yokesh-ks" /></p>
