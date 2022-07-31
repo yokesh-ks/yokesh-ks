@@ -10,8 +10,6 @@ An aspiring Full Stack Web Developer, who is curious about building responsive w
 
 🌱 I’m currently learning MERN Stack
 
-📫 How to reach me: <a href="mailto:ksyokesh98@gmail.com">Email</a>
-
 Wanna know more about me -[My Portfolio](http://yokesh.in/)
 
 ## My Skills 🚀
@@ -31,7 +29,14 @@ Wanna know more about me -[My Portfolio](http://yokesh.in/)
 ![](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
-## 
+##
+
+🤝🏻  Connect with Me
+
+<a href="mailto:ksyokesh98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ksyokesh98@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
+##
 
 <!-- # latest Blog posts -->
 
