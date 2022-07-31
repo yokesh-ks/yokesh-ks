@@ -2,9 +2,11 @@
 
 # Hi there 👋, I'm Yokesh
 
+An aspiring Full Stack Web Developer, who is curious about building responsive websites for the world of digital transformation.
+
 🎓 I’m an Open-Source enthusiast & Aspiring Full Stack Web Developer.
 
-👨‍💻 I am passionate about Web Dev & I enjoy learning new things.
+👨‍💻 I am passionate about web development and love exploring new things.
 
 🌱 I’m currently learning MERN Stack
 
