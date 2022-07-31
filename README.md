@@ -29,12 +29,12 @@ Wanna know more about me -[My Portfolio](http://yokesh.in/)
 ![](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 
-##
+## 🤝🏻  Connect with Me
 
-🤝🏻  Connect with Me
-
+<p>
 <a href="mailto:ksyokesh98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ksyokesh98@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+<a href="https://www.linkedin.com/in/yokesh-ks/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YOKESH%20K%20S-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
 ##
 
