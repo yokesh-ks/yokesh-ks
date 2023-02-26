@@ -32,8 +32,10 @@ Wanna know more about me -[My Portfolio](http://yokesh.in/)
 ## 🤝🏻  Connect with Me
 
 <p>
-<a href="mailto:ksyokesh98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ksyokesh98@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/yokesh-ks/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-YOKESH%20K%20S-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:ksyokesh98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/yokesh-ks/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.researchgate.net/profile/Yokesh-Ks"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"></a>
+<a href="https://medium.com/@yokesh_ks"><img alt="ResearchGate" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ##
