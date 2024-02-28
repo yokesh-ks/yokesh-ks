@@ -1,6 +1,6 @@
 ![Head](assets/Banner.png)
 
-# 👋 Hi, I'm YOKESH K S, a Lead Developer at Incresco. 
+# 👋 Hi, I'm YOKESH KS, a Lead Developer at Incresco. 
 
 💻 I love coding and learning new things every day. I started in mechanical engineering, but my heart found its home in web development.
 
