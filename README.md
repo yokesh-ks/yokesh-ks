@@ -1,14 +1,12 @@
 ![Head](assets/Banner.png)
 
-# Hi there 👋, I'm Yokesh
+# 👋 Hi, I'm YOKESH K S, a Lead Developer at Incresco. 
 
-Lead Developer specializing in frontend development, adept at crafting scalable, secure, and high-performance applications. My passion is optimizing development processes and fostering collaboration to drive project success and achieve excellence.
+💻 I love coding and learning new things every day. I started in mechanical engineering, but my heart found its home in web development.
 
-🎓 I’m an Open-Source enthusiast and aspiring Full Stack Web Developer.
+🚀 Lead Developer specializing in frontend development, adept at crafting scalable, secure, and high-performance applications. I create awesome web applications at Incresco, blending technical know-how with a creative touch. Having been part of both product and project development, I've got the full picture of how things come together. 🌐
 
-👨‍💻 I am passionate about web development and love exploring new things.
-
-🌱 I’m currently learning MERN Stack
+🎯 I'm on a mission: using my skills to deliver top-notch services and products aligned with goals. I stay updated on the latest trends to offer cutting-edge solutions in the digital world. Passionate about optimizing development processes and fostering collaboration for project success and excellence. 💡
 
 Wanna know more about me
 - [My Portfolio](http://yokesh.in/)
