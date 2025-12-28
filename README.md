@@ -1,12 +1,12 @@
 ![Head](assets/Banner.png)
 
-# 👋 Hi, I'm YOKESH KS, a Lead Developer at Incresco. 
+# Lead Full-Stack Developer | Scalable Web Systems | TypeScript, React & Node.js
 
-💻 I love coding and learning new things every day. I started in mechanical engineering, but my heart found its home in web development.
+I am a Lead Full-Stack Developer at Incresco with hands-on experience building scalable, secure, and high-performance web platforms. I work across the stack—owning frontend architecture, backend integration, and delivery execution for production-grade systems.
 
-🚀 Lead Developer specializing in frontend development, adept at crafting scalable, secure, and high-performance applications. I create awesome web applications at Incresco, blending technical know-how with a creative touch. Having been part of both product and project development, I've got the full picture of how things come together. 🌐
+Having contributed to both product and project-based development, I bring a holistic perspective to system design, balancing business requirements, technical constraints, and long-term maintainability.
 
-🎯 I'm on a mission: using my skills to deliver top-notch services and products aligned with goals. I stay updated on the latest trends to offer cutting-edge solutions in the digital world. Passionate about optimizing development processes and fostering collaboration for project success and excellence. 💡
+---
 
 Wanna know more about me
 - [My Portfolio](http://yokesh.in/)
