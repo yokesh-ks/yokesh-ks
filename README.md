@@ -1,6 +1,6 @@
 ![Head](assets/Banner.png)
 
-# Lead Full-Stack Developer | Scalable Web Systems | TypeScript, React & Node.js
+# Full Stack Engineer | GenAI Systems | Scalable SaaS & Platform Architecture
 
 I am a Lead Full-Stack Developer at Incresco with hands-on experience building scalable, secure, and high-performance web platforms. I work across the stack—owning frontend architecture, backend integration, and delivery execution for production-grade systems.
 
